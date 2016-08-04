@@ -1,4 +1,3 @@
-layout_spectrum: 0.921324975322932
 typography_spectrum: 0.28574181674048305
 color:
   brandStrength: 0.0750711306463927
@@ -11,5 +10,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.921324975322932
 name: mundgodt
+title: mundgodt.nu
 description: lækker mad til dit hjem eller virksomhed
