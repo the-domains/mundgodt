@@ -1,0 +1,14 @@
+layout_spectrum: 0.921324975322932
+typography_spectrum: 0.28574181674048305
+color:
+  brandStrength: 0.0750711306463927
+  lightness: 0.374059590511024
+  saturation: 0.2134554295334965
+  rhythmicContrast: 0.7001777493860573
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: mundgodt
