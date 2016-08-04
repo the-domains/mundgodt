@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mundgodt]]></title>
-        <description><![CDATA[mundgodt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[mundgodt.nu]]></title>
+        <description><![CDATA[mundgodt.nu]]></description>
+        <link>https://thegrid.ai/mundgodt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 06:46:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 06:56:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mundgodt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bon Marché, San Francisco, USA.]]></title>
-            <description><![CDATA[<article><h1>Bon Marché, San Francisco, USA.</h1><p>Among the eateries revitalising San Francisco's once-gritty Mid-Market neighborhood into the city's most buzzy food and drinks corridor is Bon Marché, a sunny Californian take on Le Marais. This 7500-square-foot space combines a café, a brewery, an oyster bar, a full-service restaurant, and even a flower shop that doubles as a stage for live jazz at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f67536b56e8543128b8b1122f673dc5d50a01f50.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d943cf-2a87-4e8e-b8f9-e2030eb1c1f3.jpg">]]></description>
             <link>http://www.wallpaper.com/travel/usa/san-francisco/restaurants/bon-march</link>
             <guid isPermaLink="false">8ba8c8bc-bd0e-467b-b187-e0bad0409ad3</guid>
-            <pubDate>Thu, 04 Aug 2016 06:46:03 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 06:55:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
